@@ -35,7 +35,13 @@ Sample command:
 
 ## HTML, CSS, JavaScript
 
->
+> Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
+> 
+> Common to all browsers
+> 
+> Front End Development: HTML5, CSS3, and JavaScript + React
+> 
+> Back End Development: NodeServer (Node.js, Express.js) and DataBase (PostgressSQL, MongoDB)
 
 Helpful Links:
 
@@ -46,3 +52,9 @@ Helpful Links:
 <https://www.vox.com/a/internet-maps>
 
 [First WebPage in World](http://info.cern.ch/hypertext/WWW/TheProject.html)
+
+[Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29&ab_channel=CrashCourse)
+
+[Internet](https://www.youtube.com/watch?v=AEaKrq3SpW8&index=30&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&ab_channel=CrashCourse)
+
+[World Wide Web](https://www.youtube.com/watch?v=guvsH5OFizE&index=31&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&ab_channel=CrashCourse)
