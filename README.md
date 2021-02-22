@@ -30,6 +30,12 @@ Sample command:
 ## History of Internet
 
 > - Sir Tim Bernes-Lee invented the World Wide Web(WWW) in 1989
+> - He created the very first website
+> - He gave a common language(protocol) for machines to talk over network
+
+## HTML, CSS, JavaScript
+
+>
 
 Helpful Links:
 
@@ -38,3 +44,5 @@ Helpful Links:
 <https://www.submarinecablemap.com/>
 
 <https://www.vox.com/a/internet-maps>
+
+[First WebPage in World](http://info.cern.ch/hypertext/WWW/TheProject.html)
