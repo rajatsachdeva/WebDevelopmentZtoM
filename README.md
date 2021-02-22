@@ -27,8 +27,14 @@ Sample command:
 > - Front End Developer: HTML, CSS, Javascript + React
 > - Back End Developer: Server(Node.js,Express.js), Database(PostgressSQL etc.)
 
+## History of Internet
+
+> - Sir Tim Bernes-Lee invented the World Wide Web(WWW) in 1989
+
 Helpful Links:
 
 <https://zerotomastery.io/blog/learn-to-code-in-2021-get-hired-and-have-fun-along-the-way/>
 
 <https://www.submarinecablemap.com/>
+
+<https://www.vox.com/a/internet-maps>
