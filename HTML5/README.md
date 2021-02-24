@@ -42,6 +42,15 @@
 ## strong and em (emphasis) tags
 
 > same as bold and italics respectively, compatible with new devices
+
+## ol and ul tag
+
+> The `<ol>` tag defines an ordered list. An ordered list can be numerical or alphabetical.
+> 
+> The `<ul>` tag defines an unordered (bulleted) list.
+> 
+> The `<li>` tag is used to define each list item.
+
 ### Helpful Links:
 
 [w3schools](https://www.w3schools.com/)
