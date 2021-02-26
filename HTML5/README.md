@@ -86,6 +86,17 @@
 > - A visited link is underlined and purple
 > - An active link is underlined and red
 
+### Q & A
+
+- Why first HTML page is named as `index.html`
+  
+> Ideally first page can be named as anything you like.
+> But common practice is to use index.html as the first page by most of the servers.
+
+- Absolute Path vs Relative Path
+
+> A relative path assumes that the file is on the current server. Using relative paths allows you to construct your site offline and fully test it before uploading it. An absolute path refers to a file on the Internet using its full URL. Absolute paths tell the browser precisely where to go.
+
 ### Helpful Links:
 
 [w3schools](https://www.w3schools.com/)
