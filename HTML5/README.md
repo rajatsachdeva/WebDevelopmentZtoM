@@ -11,7 +11,7 @@
 > - HTML elements tell the browser how to display the content
 > - HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 >
-## DOCTYPE tag
+### DOCTYPE tag
 
 > All HTML documents must start with a <!DOCTYPE> declaration.
 > 
@@ -21,7 +21,7 @@
 > 
 > `<!DOCTYPE html>`
 
-## h1 to h6 tag
+### h1 to h6 tag
 
 > The `<h1>` to `<h6>` tags are used to define HTML headings.
 > 
@@ -29,21 +29,21 @@
 > 
 > `<h6>` defines the least important heading.
 
-## p (paragraph) tag
+### p (paragraph) tag
 
 > The `<p>` tag defines a paragraph
 > 
 > Browsers automatically add a single blank line before and after each `<p>` element.
 
-## b and i tags
+### b and i tags
 
 > bold and italics tags (mostly deprecated), not compatible with new machines
 
-## strong and em (emphasis) tags
+### strong and em (emphasis) tags
 
 > same as bold and italics respectively, compatible with new devices
 
-## ol and ul tag
+### ol and ul tag
 
 > The `<ol>` tag defines an ordered list. An ordered list can be numerical or alphabetical.
 > 
@@ -51,7 +51,7 @@
 > 
 > The `<li>` tag is used to define each list item.
 
-## Self closing tags
+### Self closing tags
 
 ### br tag
 
