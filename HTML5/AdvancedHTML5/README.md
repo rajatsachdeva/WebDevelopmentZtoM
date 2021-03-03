@@ -20,7 +20,7 @@
 >
 > The form-data can be sent as URL variables (with `method="get"`) or as HTTP post transaction (with `method="post"`).
 >
-> #### Notes on GET
+> ### Notes on GET
 >
 > Appends form-data into the URL in name/value pairs. The length of a URL is limited (about 3000 characters).
 >
@@ -29,7 +29,7 @@
 >
 > GET is better for non-secure data, like query strings in Google
 >
-> #### Notes on POST
+> ### Notes on POST
 >
 > Appends form-data inside the body of the `HTTP` request (data is not shown in URL
 >
