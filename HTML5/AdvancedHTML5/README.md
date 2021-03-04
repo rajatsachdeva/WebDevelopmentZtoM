@@ -36,6 +36,9 @@
 > Has no size limitations
 > Form submissions with POST cannot be bookmarked
 
+### Shortcut to add comments in HTML5
+
+> command + /
 ### Helpful Links
 
 [w3schools](https://www.w3schools.com/)
