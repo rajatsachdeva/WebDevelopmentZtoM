@@ -9,7 +9,7 @@
 > - `<input>`
 > - `<textarea>`
 > - `<button>`
-> - `<select>` 
+> - `<select>`
 > - `<option>`
 > - `<optgroup>`
 > - `<fieldset>`
